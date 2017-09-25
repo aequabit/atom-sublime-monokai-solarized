@@ -1,3 +1,5 @@
+## Made by odahcam, modified by aequabit
+
 # A Monokai Theme
 ## For Sublime Text Monokai theme lovers <3
 

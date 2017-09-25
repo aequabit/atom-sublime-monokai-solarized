@@ -1,25 +1,28 @@
 {
-  "name": "atom-sublime-monokai-syntax",
+  "name": "atom-sublime-monokai-solarized",
   "theme": "syntax",
   "version": "0.4.5",
-  "author": "odahcam",
-  "description": "A monokai theme, made with ❤ and Vodka (kidding, was ☕ again) for Sublime Text Monokai Syntax and ⚛ lovers. 💚",
+  "author": "aequabit",
+  "description": "Sublime Text Monokai + Solarized Dark = <3 - made by odahcam",
   "keywords": [
     "syntax",
     "theme",
     "monokai",
     "sublime",
     "text",
-    "odahcam"
+    "odahcam",
+    "solarized",
+    "aequabit"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/odahcam/atom-sublime-monokai-syntax.git"
+    "url": "https://github.com/aequabit/atom-sublime-monokai-solarized.git"
   },
   "bugs": {
-    "url": "https://github.com/odahcam/atom-sublime-monokai-syntax/issues"
+    "url": "https://github.com/aequabit/atom-sublime-monokai-solarized/issues"
   },
-  "homepage": "https://github.com/odahcam/atom-sublime-monokai-syntax#readme",
+  "homepage":
+    "https://github.com/aequabit/atom-sublime-monokai-solarized#readme",
   "dependencies": {},
   "devDependencies": {},
   "license": "MIT",
